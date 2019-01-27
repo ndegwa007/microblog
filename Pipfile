@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-render-template = "*"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.6"
